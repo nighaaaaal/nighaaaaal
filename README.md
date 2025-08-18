@@ -1,25 +1,32 @@
-## Hi there 👋
+# Hello, World! 👋 I'm Nihal
 
-<!--
-BTech IT 1st Year Student
+<a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/nighaaaaal/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-GEC Sreekrishnapuram, Palakkad
+I'm a B.Tech Information Technology student at **GEC Sreekrishnapuram, Palakkad**, on a mission to become a Cybersecurity Expert.
 
-Aspiring Cybersecurity Expert
+---
 
-Focused on building a strong foundation in security principles
+### 👨‍💻 About Me
 
-Programming Enthusiast
+- 🎓 I'm a **second-year B.Tech IT student**.
+- 🌱 I’m currently focused on **building a strong foundation in security principles**.
+- 🔐 My main interests are **ethical hacking, network security, and security research**.
+- 💻 I love exploring **new technologies and security tools**.
 
-Learning various programming languages and technologies
+---
 
-Tech Explorer
+### 🛠️ Languages and Tools
 
-Constantly exploring new technologies and security tools
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  </p>
 
-I am a second -year BTech IT student at Government Engineering College Sreekrishnapuram, Palakkad, with a passion for cybersecurity and technology. My journey in the tech world is just beginning, but I am dedicated to building a strong foundation in IT fundamentals while specializing in cybersecurity.
+---
 
-As a learner, I'm constantly exploring new concepts, tools, and technologies. I believe in the power of continuous learning and hands-on experience to develop expertise in the rapidly evolving field of cybersecurity.
+### 📊 GitHub Stats
 
-My goal is to become a cybersecurity expert, contributing to making the digital world safer and more secure. I'm particularly interested in ethical hacking, network security, and security research.
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
