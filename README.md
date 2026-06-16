@@ -11,7 +11,7 @@ I'm a B.Tech Information Technology student at **GEC Sreekrishnapuram, Palakkad*
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **second-year B.Tech IT student**.
+- 🎓 I'm a **Third-year B.Tech IT student**.
 - 🌱 I’m currently focused on **building a strong foundation in security principles**.
 - 🔐 My main interests are **ethical hacking, network security, and security research**.
 - 🐧 I'm also very deeply interested and active in the **FOSS (Free and Open Source Software) community**.
