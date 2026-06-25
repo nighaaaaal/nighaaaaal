@@ -66,7 +66,7 @@ I'm a B.Tech Information Technology student at **GEC Sreekrishnapuram, Palakkad*
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nighaaaaal&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Nihal's GitHub Trophies"/>
+  <img src="https://github-profile-trophy-five-indol.vercel.app/?username=nighaaaaal&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Nihal's GitHub Trophies"/>
 </div>
 
 ---
